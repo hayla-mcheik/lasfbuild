@@ -1,0 +1,1 @@
+import{B as t}from"./D_BpVgSy.js";import{P as o}from"./BjnATw7j.js";import{c as a,b as e,a as r,F as s,o as c}from"./BzNwqdF_.js";import"./BuRjv72G.js";import"./BkXtjkM_.js";const m={class:"mt-5"},B={__name:"pilots",setup(p){return(i,n)=>(c(),a(s,null,[e(t),r("div",m,[e(o)])],64))}};export{B as default};
